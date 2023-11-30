@@ -30,6 +30,7 @@
 184.154.156.144
 18ebz.trk.elasticemail.com
 190m4.trk.elasticemail.com
+19m52.trk.elasticemail.com
 1b321d46f54b13qd2fbq56d.storage.googleapis.com
 1b32d4fb65d132f1bq4d6fb5qd41.storage.googleapis.com
 1bfqd1b651qdfb32qdf56b14qd.storage.googleapis.com
