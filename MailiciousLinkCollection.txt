@@ -36,6 +36,7 @@
 1bfqd1b651qdfb32qdf56b14qd.storage.googleapis.com
 1c23w1xcwxc.website.yandexcloud.net
 1c2w5xc32wx1cwxcwxc.website.yandexcloud.net
+1d55i.trk.elasticemail.com
 1djt15jh1dgfd02gj12d0hjh02dgfh1jfhjg.storage.yandexcloud.net
 1dr14h1d21jdjh12hj12fgjh12gfhj1ghj1212jgh.storage.googleapis.com
 1fgddf251ggf01gfd21dfx1gh0g2h12gfhfgh2.storage.yandexcloud.net
@@ -215,6 +216,7 @@ api.lotto24.de
 api.my-ip.io
 api.mylnikov.org
 api.rest7.com
+api.smtprelay.co
 api.sypexgeo.net
 api.wipmania.com
 api4.my-ip.io
