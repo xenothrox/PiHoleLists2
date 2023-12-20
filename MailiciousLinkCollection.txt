@@ -1580,6 +1580,7 @@ hgh1g2hfg01hgf01j1gfhgh01gfdghgfghj.storage.googleapis.com
 hgh201gj02hg10hj21ghj0h210g02h1hjhgj.storage.googleapis.com
 hghf5d1g12fh0jfgh2j101ghjhj.storage.googleapis.com
 hghgf22gh0gf12h0jf2g0jh10j2fghhjhfjg.storage.googleapis.com
+hghghjhg010h1hj00hgj01ghj1ghjjhgghj.storage.googleapis.com
 hghh1jgj1g0jhg1hj0ghj1g0hj1gh1j0h1jh.storage.yandexcloud.net
 hghj021hg1jh0g2hjgh0j1g2h0j2fg1hjfghjfghj.storage.googleapis.com
 hgj0chj0h1020j10hg121hg2f01g10hfdghjggjdhj.storage.yandexcloud.net
@@ -1695,6 +1696,7 @@ hj1jg1jh1jh0hj02h0j2ghj02h1jg1h0j1hj0ghjjh.storage.yandexcloud.net
 hj203fj02hd0dk12h0d2gh021fg01kfg20k1jkjh.storage.googleapis.com
 hj210hfgh20jk10j021k0k2hjf0hfjgjkj.sos-bg-sof-1.exo.io
 hj215jf2j21hj021fgh0j12g0hjgh0gfhj.sos-de-fra-1.exo.io
+hj21jh01hjg01hggh10jh10hj010hjgghjghj.storage.googleapis.com
 hj21jhj12ghjh10hj1h0jh1gh0j1gj0h1jhhjjhg.storage.yandexcloud.net
 hj2gfh30210hk12ghk2ghj1k0g2hj1k0kjh.storage.googleapis.com
 hj2gh10g1hj01hj1hj00h21gjghj.website.yandexcloud.net
@@ -1849,6 +1851,7 @@ i.trend-umfrage.com
 i.vip-shopping-deals.com
 i.you-buy.net
 i0.wp.com
+i2.trend-umfrage.com
 i2p.manas.ca
 i2p.mooo.com
 i2p.novg.net
@@ -2475,6 +2478,7 @@ ncv.oeko.eu
 ncv2.oeko.eu
 ncv4.bohotel.de
 ncv8.oeko.eu
+ncv8.trend-umfrage.com
 ncv9.tech-bild.de
 ndnsu.ru
 neded.de
