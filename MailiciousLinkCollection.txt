@@ -727,6 +727,7 @@ deficials.com
 definisms.com
 degregardina.biz
 degregorish.com
+delivr.com
 demandingline.com
 denients.de
 derila.com
@@ -2381,6 +2382,7 @@ meistro.de
 mejdcasumfi.hungaragua.com
 mergi.la
 merky.de
+message-editor.scdn.co
 messional.com
 mestimater.com
 meta24.duckdns.org
@@ -2550,6 +2552,7 @@ nbwqudgapmv.accordinia.com
 ncslfeo.page.link
 ncv.oeko.eu
 ncv2.bohotel.de
+ncv2.homeabout.de
 ncv2.oeko.eu
 ncv3.bohotel.de
 ncv4.bohotel.de
@@ -3009,6 +3012,7 @@ saharing.com
 sale.rabattcodefinder.de
 salicine.com
 salvargaret.net
+samqrgrdcan.blob.core.windows.net
 sanyai-love.rmu.ac.th
 sataen.com
 sauna-pulse.com
